@@ -10,6 +10,8 @@ AI Research Engineer at Aveni, working across the full LLM lifecycle: data → t
 
 🏆 Competitive programmer
 
+🖥️ Built a dual RTX 5090 workstation so the experiments run at home
+
 🌱 Currently going deeper on pretraining (see sudani_lm), preference optimisation and ML-systems performance
 
 Stack: PyTorch · Hugging Face · vLLM · FSDP / DeepSpeed · LoRA / QLoRA · DPO / GRPO · AWS · Python / C++
