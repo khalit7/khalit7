@@ -10,7 +10,7 @@ AI Research Engineer at Aveni, working across the full LLM lifecycle: data → t
 
 🏆 Competitive programmer
 
-🖥️ Built a dual RTX 5090 workstation so the experiments run at home
+🖥️ Built a dual RTX 5090 workstation so the experiments run at home ([this](https://khalit7.github.io/writing/ai-workstation.html) blog post describes my experience )
 
 🌱 Currently going deeper on pretraining (see sudani_lm), preference optimisation and ML-systems performance
 
