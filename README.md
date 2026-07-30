@@ -1,6 +1,6 @@
 ## Hi, I am Khalid 👋
 
-AI Research Engineer at Aveni, working across the full LLM lifecycle: data → training → production.
+AI Research Engineer at Aveni · full ML lifecycle: distributed training, evaluation, production serving (PyTorch) · competitive programmer
 
 🔬 contributed to the evaluation and regression harness that gates every model change before it ships, and stress-test our own models adversarially to find out where they break
 
