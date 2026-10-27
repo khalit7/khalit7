@@ -1,0 +1,18 @@
+# Refreshes the "Latest writing" list in README.md from the Medium RSS feed once a day,
+# so a new post appears here without editing the README by hand.
+name: Latest Medium posts
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@khalidsulman777"
+          max_post_count: 5
