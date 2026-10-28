@@ -19,5 +19,5 @@ Stack: PyTorch · Hugging Face · vLLM · FSDP / DeepSpeed · LoRA / QLoRA · DP
 ### ✍️ Latest writing ([all posts on Medium](https://medium.com/@khalidsulman777))
 
 <!-- BLOG-POST-LIST:START -->
-- [I built my own dual RTX 5090 AI workstation, and here’s what renting GPUs never taught me](https://medium.com/@khalidsulman777/i-built-my-own-dual-rtx-5090-ai-workstation-and-heres-what-renting-gpus-never-taught-me-bdbdb2c9b300)
+- [I built my own dual RTX 5090 AI workstation, and here’s what renting GPUs never taught me](https://levelup.gitconnected.com/i-built-my-own-dual-rtx-5090-ai-workstation-and-heres-what-renting-gpus-never-taught-me-bdbdb2c9b300?source=rss-ef69d13d4a77------2)
 <!-- BLOG-POST-LIST:END -->
